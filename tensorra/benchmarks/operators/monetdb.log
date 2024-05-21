@@ -1,0 +1,456 @@
+operation successful
+sql:0.000 opt:0.476 run:0.757 ms
+operation successful
+sql:0.000 opt:0.486 run:1.026 ms
+operation successful
+sql:0.000 opt:0.409 run:5.255 ms
+operation successful
+sql:0.000 opt:1.230 run:25.954 ms
+operation successful
+sql:0.000 opt:2.865 run:242.265 ms
+operation successful
+sql:0.000 opt:0.344 run:0.538 ms
+operation successful
+sql:0.000 opt:0.334 run:0.543 ms
+operation successful
+sql:0.000 opt:0.335 run:2.184 ms
+operation successful
+sql:0.000 opt:0.324 run:21.028 ms
+operation successful
+sql:0.000 opt:0.364 run:122.210 ms
+operation successful
+sql:0.000 opt:0.522 run:1.050 ms
+operation successful
+sql:0.000 opt:0.478 run:2.213 ms
+operation successful
+sql:0.000 opt:0.501 run:17.780 ms
+operation successful
+sql:0.000 opt:1.402 run:73.453 ms
+operation successful
+sql:0.000 opt:3.092 run:790.547 ms
+operation successful
+sql:0.000 opt:0.401 run:0.785 ms
+operation successful
+sql:0.000 opt:0.340 run:0.789 ms
+operation successful
+sql:0.000 opt:0.389 run:3.130 ms
+operation successful
+sql:0.000 opt:0.960 run:6.761 ms
+operation successful
+sql:0.000 opt:1.454 run:37.158 ms
++--------+
+| %1     |
++========+
+| 677853 |
++--------+
+1 tuple
+sql:0.053 opt:0.306 run:0.283 ms
++---------+
+| %1      |
++=========+
+| 6601318 |
++---------+
+1 tuple
+sql:0.036 opt:0.258 run:0.361 ms
++----------+
+| %1       |
++==========+
+| 73194096 |
++----------+
+1 tuple
+sql:0.034 opt:0.274 run:0.590 ms
++-----------+
+| %1        |
++===========+
+| 802892169 |
++-----------+
+1 tuple
+sql:0.033 opt:0.523 run:1.307 ms
++------------+
+| %1         |
++============+
+| 8247499176 |
++------------+
+1 tuple
+sql:0.034 opt:0.939 run:6.304 ms
+clk:2795.171 ms
+operation successful
+sql:0.000 opt:0.668 run:0.877 ms
+operation successful
+sql:0.000 opt:0.441 run:1.253 ms
+operation successful
+sql:0.000 opt:0.449 run:7.782 ms
+operation successful
+sql:0.000 opt:1.503 run:32.025 ms
+operation successful
+sql:0.000 opt:2.646 run:238.859 ms
+operation successful
+sql:0.000 opt:0.414 run:0.578 ms
+operation successful
+sql:0.000 opt:0.314 run:0.550 ms
+operation successful
+sql:0.000 opt:0.303 run:2.397 ms
+operation successful
+sql:0.000 opt:0.396 run:15.579 ms
+operation successful
+sql:0.000 opt:0.364 run:126.833 ms
+operation successful
+sql:0.000 opt:0.470 run:1.134 ms
+operation successful
+sql:0.000 opt:0.451 run:1.930 ms
+operation successful
+sql:0.000 opt:0.514 run:17.821 ms
+operation successful
+sql:0.000 opt:1.470 run:94.996 ms
+operation successful
+sql:0.000 opt:3.021 run:714.204 ms
+operation successful
+sql:0.000 opt:0.389 run:0.739 ms
+operation successful
+sql:0.000 opt:0.352 run:0.740 ms
+operation successful
+sql:0.000 opt:0.344 run:3.199 ms
+operation successful
+sql:0.000 opt:0.932 run:9.247 ms
+operation successful
+sql:0.000 opt:1.480 run:36.824 ms
++--------+
+| %1     |
++========+
+| 677853 |
++--------+
+1 tuple
+sql:0.053 opt:0.313 run:0.273 ms
++---------+
+| %1      |
++=========+
+| 6601318 |
++---------+
+1 tuple
+sql:0.041 opt:0.337 run:0.262 ms
++----------+
+| %1       |
++==========+
+| 73194096 |
++----------+
+1 tuple
+sql:0.041 opt:0.291 run:0.713 ms
++-----------+
+| %1        |
++===========+
+| 802892169 |
++-----------+
+1 tuple
+sql:0.040 opt:0.637 run:1.428 ms
++------------+
+| %1         |
++============+
+| 8247499176 |
++------------+
+1 tuple
+sql:0.059 opt:0.956 run:6.561 ms
+clk:2868.829 ms
+operation successful
+sql:0.000 opt:0.421 run:0.694 ms
+operation successful
+sql:0.000 opt:0.486 run:0.973 ms
+operation successful
+sql:0.000 opt:0.437 run:4.185 ms
+operation successful
+sql:0.000 opt:1.396 run:27.505 ms
+operation successful
+sql:0.000 opt:2.803 run:224.257 ms
+operation successful
+sql:0.000 opt:0.362 run:0.554 ms
+operation successful
+sql:0.000 opt:0.308 run:0.546 ms
+operation successful
+sql:0.000 opt:0.303 run:2.257 ms
+operation successful
+sql:0.000 opt:0.355 run:15.887 ms
+operation successful
+sql:0.000 opt:0.395 run:135.689 ms
+operation successful
+sql:0.000 opt:0.451 run:1.019 ms
+operation successful
+sql:0.000 opt:0.475 run:1.819 ms
+operation successful
+sql:0.000 opt:0.532 run:16.748 ms
+operation successful
+sql:0.000 opt:1.469 run:82.737 ms
+operation successful
+sql:0.000 opt:2.989 run:669.270 ms
+operation successful
+sql:0.000 opt:0.284 run:0.856 ms
+operation successful
+sql:0.000 opt:0.295 run:0.726 ms
+operation successful
+sql:0.000 opt:0.314 run:3.475 ms
+operation successful
+sql:0.000 opt:0.940 run:6.502 ms
+operation successful
+sql:0.000 opt:1.600 run:35.839 ms
++--------+
+| %1     |
++========+
+| 677853 |
++--------+
+1 tuple
+sql:0.051 opt:0.335 run:0.235 ms
++---------+
+| %1      |
++=========+
+| 6601318 |
++---------+
+1 tuple
+sql:0.033 opt:0.236 run:0.267 ms
++----------+
+| %1       |
++==========+
+| 73194096 |
++----------+
+1 tuple
+sql:0.033 opt:0.233 run:0.706 ms
++-----------+
+| %1        |
++===========+
+| 802892169 |
++-----------+
+1 tuple
+sql:0.032 opt:0.550 run:1.331 ms
++------------+
+| %1         |
++============+
+| 8247499176 |
++------------+
+1 tuple
+sql:0.034 opt:0.902 run:6.707 ms
+clk:2757.683 ms
+operation successful
+sql:0.000 opt:0.448 run:0.753 ms
+operation successful
+sql:0.000 opt:0.410 run:1.079 ms
+operation successful
+sql:0.000 opt:0.500 run:5.114 ms
+operation successful
+sql:0.000 opt:1.247 run:26.860 ms
+operation successful
+sql:0.000 opt:2.660 run:246.987 ms
+operation successful
+sql:0.000 opt:0.356 run:0.482 ms
+operation successful
+sql:0.000 opt:0.247 run:0.512 ms
+operation successful
+sql:0.000 opt:0.375 run:2.110 ms
+operation successful
+sql:0.000 opt:0.337 run:15.399 ms
+operation successful
+sql:0.000 opt:0.351 run:125.180 ms
+operation successful
+sql:0.000 opt:0.504 run:0.903 ms
+operation successful
+sql:0.000 opt:0.444 run:2.089 ms
+operation successful
+sql:0.000 opt:0.488 run:18.089 ms
+operation successful
+sql:0.000 opt:1.482 run:83.530 ms
+operation successful
+sql:0.000 opt:3.067 run:713.476 ms
+operation successful
+sql:0.000 opt:0.480 run:1.074 ms
+operation successful
+sql:0.000 opt:0.341 run:0.837 ms
+operation successful
+sql:0.000 opt:0.352 run:3.292 ms
+operation successful
+sql:0.000 opt:0.889 run:5.511 ms
+operation successful
+sql:0.000 opt:1.537 run:32.645 ms
++--------+
+| %1     |
++========+
+| 677853 |
++--------+
+1 tuple
+sql:0.054 opt:0.307 run:0.239 ms
++---------+
+| %1      |
++=========+
+| 6601318 |
++---------+
+1 tuple
+sql:0.041 opt:0.291 run:0.337 ms
++----------+
+| %1       |
++==========+
+| 73194096 |
++----------+
+1 tuple
+sql:0.041 opt:0.285 run:0.738 ms
++-----------+
+| %1        |
++===========+
+| 802892169 |
++-----------+
+1 tuple
+sql:0.044 opt:0.643 run:1.274 ms
++------------+
+| %1         |
++============+
+| 8247499176 |
++------------+
+1 tuple
+sql:0.036 opt:0.992 run:6.846 ms
+clk:2821.025 ms
+operation successful
+sql:0.000 opt:0.513 run:0.727 ms
+operation successful
+sql:0.000 opt:0.452 run:0.988 ms
+operation successful
+sql:0.000 opt:0.324 run:5.339 ms
+operation successful
+sql:0.000 opt:1.411 run:28.286 ms
+operation successful
+sql:0.000 opt:2.888 run:230.015 ms
+operation successful
+sql:0.000 opt:0.368 run:0.452 ms
+operation successful
+sql:0.000 opt:0.318 run:0.469 ms
+operation successful
+sql:0.000 opt:0.297 run:2.016 ms
+operation successful
+sql:0.000 opt:0.305 run:15.400 ms
+operation successful
+sql:0.000 opt:0.340 run:127.706 ms
+operation successful
+sql:0.000 opt:0.488 run:1.076 ms
+operation successful
+sql:0.000 opt:0.447 run:2.097 ms
+operation successful
+sql:0.000 opt:0.488 run:16.835 ms
+operation successful
+sql:0.000 opt:1.416 run:83.193 ms
+operation successful
+sql:0.000 opt:2.948 run:768.510 ms
+operation successful
+sql:0.000 opt:0.418 run:0.767 ms
+operation successful
+sql:0.000 opt:0.339 run:0.740 ms
+operation successful
+sql:0.000 opt:0.360 run:2.779 ms
+operation successful
+sql:0.000 opt:0.908 run:6.124 ms
+operation successful
+sql:0.000 opt:1.682 run:35.653 ms
++--------+
+| %1     |
++========+
+| 677853 |
++--------+
+1 tuple
+sql:0.056 opt:0.329 run:0.303 ms
++---------+
+| %1      |
++=========+
+| 6601318 |
++---------+
+1 tuple
+sql:0.038 opt:0.275 run:0.363 ms
++----------+
+| %1       |
++==========+
+| 73194096 |
++----------+
+1 tuple
+sql:0.037 opt:0.270 run:0.534 ms
++-----------+
+| %1        |
++===========+
+| 802892169 |
++-----------+
+1 tuple
+sql:0.041 opt:0.612 run:1.353 ms
++------------+
+| %1         |
++============+
+| 8247499176 |
++------------+
+1 tuple
+sql:0.039 opt:1.062 run:6.512 ms
+clk:2928.663 ms
+operation successful
+sql:0.000 opt:0.687 run:0.788 ms
+operation successful
+sql:0.000 opt:0.529 run:0.979 ms
+operation successful
+sql:0.000 opt:0.451 run:5.277 ms
+operation successful
+sql:0.000 opt:1.397 run:32.925 ms
+operation successful
+sql:0.000 opt:2.864 run:275.863 ms
+operation successful
+sql:0.000 opt:0.362 run:0.546 ms
+operation successful
+sql:0.000 opt:0.303 run:0.536 ms
+operation successful
+sql:0.000 opt:0.324 run:2.129 ms
+operation successful
+sql:0.000 opt:0.336 run:16.464 ms
+operation successful
+sql:0.000 opt:0.334 run:144.027 ms
+operation successful
+sql:0.000 opt:0.511 run:0.966 ms
+operation successful
+sql:0.000 opt:0.505 run:1.772 ms
+operation successful
+sql:0.000 opt:0.462 run:17.672 ms
+operation successful
+sql:0.000 opt:1.469 run:99.519 ms
+operation successful
+sql:0.000 opt:3.179 run:769.284 ms
+operation successful
+sql:0.000 opt:0.427 run:0.760 ms
+operation successful
+sql:0.000 opt:0.328 run:0.655 ms
+operation successful
+sql:0.000 opt:0.416 run:3.481 ms
+operation successful
+sql:0.000 opt:0.876 run:6.358 ms
+operation successful
+sql:0.000 opt:1.579 run:36.954 ms
++--------+
+| %1     |
++========+
+| 677853 |
++--------+
+1 tuple
+sql:0.051 opt:0.294 run:0.268 ms
++---------+
+| %1      |
++=========+
+| 6601318 |
++---------+
+1 tuple
+sql:0.032 opt:0.243 run:0.313 ms
++----------+
+| %1       |
++==========+
+| 73194096 |
++----------+
+1 tuple
+sql:0.041 opt:0.241 run:0.647 ms
++-----------+
+| %1        |
++===========+
+| 802892169 |
++-----------+
+1 tuple
+sql:0.032 opt:0.518 run:1.109 ms
++------------+
+| %1         |
++============+
+| 8247499176 |
++------------+
+1 tuple
+sql:0.052 opt:1.156 run:6.827 ms
+clk:3111.003 ms

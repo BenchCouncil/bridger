@@ -1,0 +1,1 @@
+mclient -d bench < show_table.sql

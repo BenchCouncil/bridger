@@ -1,0 +1,10 @@
+DROP TABLE station_trip_1k;
+DROP TABLE station_trip_10k;
+DROP TABLE station_trip_100k;
+DROP TABLE station_trip_1m;
+DROP TABLE station_trip_10m;
+DROP TABLE conference_A_100;
+DROP TABLE conference_A_1k;
+DROP TABLE conference_A_10k;
+DROP TABLE conference_A_100k;
+DROP TABLE conference_A_1m;

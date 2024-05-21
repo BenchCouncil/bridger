@@ -1,0 +1,10 @@
+DELETE FROM conference_100;
+COPY OFFSET 2 INTO conference_100 FROM 'conference_100.csv' ON CLIENT USING DELIMITERS ',', E'\n', '"';
+DELETE FROM conference_1k;
+COPY OFFSET 2 INTO conference_1k FROM 'conference_1k.csv' ON CLIENT USING DELIMITERS ',', E'\n', '"';
+DELETE FROM conference_10k;
+COPY OFFSET 2 INTO conference_10k FROM 'conference_10k.csv' ON CLIENT USING DELIMITERS ',', E'\n', '"';
+DELETE FROM conference_100k;
+COPY OFFSET 2 INTO conference_100k FROM 'conference_100k.csv' ON CLIENT USING DELIMITERS ',', E'\n', '"';
+DELETE FROM conference_1m;
+COPY OFFSET 2 INTO conference_1m FROM 'conference_1m.csv' ON CLIENT USING DELIMITERS ',', E'\n', '"';

@@ -1,0 +1,7 @@
+DROP TABLE trip;
+DROP TABLE station;
+DROP TABLE trip_1k;
+DROP TABLE trip_10k;
+DROP TABLE trip_100k;
+DROP TABLE trip_1m;
+DROP TABLE trip_10m;
