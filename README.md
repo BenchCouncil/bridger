@@ -6,7 +6,7 @@ A unified framework to bridge the gap between domain-specific frameworks and mul
 1. Install tvm, following https://tvm.apache.org/docs/install/index.html
 
 2. `
-git clone git@github.com:warmth1905/bridger.git
+git clone https://github.com/BenchCouncil/bridger.git
 `
 
 3. Add
